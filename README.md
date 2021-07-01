@@ -50,4 +50,6 @@ DB_PORT=db_port
 Автор Павел Хан. Задание было выполнено в рамках курса от Yandex Praktikum бэкенд разработчик.
 #### Workflow badge:
 https://github.com/pavelkhanoff/yamdb_final/actions/workflows/main.yml/badge.svg
+#### Server address:
+http://130.193.52.15/
 
