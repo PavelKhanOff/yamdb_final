@@ -51,5 +51,5 @@ DB_PORT=db_port
 #### Workflow badge:
 https://github.com/pavelkhanoff/yamdb_final/actions/workflows/main.yml/badge.svg
 #### Server address:
-http://130.193.52.15/
+http://84.252.139.135/
 
